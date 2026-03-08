@@ -1,7 +1,7 @@
 # ExerciseWeek1-Individual
 # iris-data-analysis
-# Iris Statistical Analysis Assignment
-# This repository contains a statistical analysis of the Iris dataset.
+Iris Statistical Analysis Assignment
+This repository contains a statistical analysis of the Iris dataset.
 
 # Tasks completed:
 
